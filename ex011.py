@@ -10,4 +10,4 @@ altura = float(input('Digite a altura em metros da parede: '))
 area = largura * altura
 tinta = area / 2
 
-print('A quantia de tinta necessária sera {:.1f} litros'.format(tinta))
+print('A quantia de tinta necessária será {:.1f} litros'.format(tinta))

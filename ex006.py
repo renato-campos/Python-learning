@@ -7,7 +7,7 @@ num = float(input('Digite um número: '))
 print('''O número {} tem como
 seu dobro o {},
 seu triplo o {} e
-como sua raiz quadrada o {}'''.format(num, 2 * num, 3 * num, num ** (1/2)))
+como sua raiz quadrada o {:.3f}'''.format(num, 2 * num, 3 * num, num ** (1/2)))
 
 # Cálculo de raiz quadrada:
 

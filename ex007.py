@@ -7,4 +7,4 @@ p2 = float(input('Digite a nota da 2ª Prova: '))
 
 media = (p1 + p2) / 2
 
-print('A média entre {:.2f} e {:.2f} resultou {:.2f}'.format(p1, p2, media))
+print('A média entre {:.1f} e {:.1f} resultou {:.1f}'.format(p1, p2, media))

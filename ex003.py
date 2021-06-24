@@ -5,11 +5,6 @@
 num1 = input('Digite um número: ')
 num2 = input('Digite outro número: ')
 
-print('A soma entre {} e {} resultou {}'.format(num1, num2, num1 + num2))
-
-soma = num1 + num2
-print('A soma entre {} e {} ainda resultou {}'.format(num1, num2, soma))
-
 num1, num2 = float(num1), float(num2)
 soma = num1 + num2
 print('A soma entre {} e {} agora sim resulta {}'.format(num1, num2, soma))
