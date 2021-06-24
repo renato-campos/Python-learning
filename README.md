@@ -2,6 +2,6 @@
 
 Prof. Gustavo Guanabara
 
-Teoria e exercícios na linguagem Python
+Teoria, práticas e exercícios na linguagem Python
 
 Conceitos fundamentais.
