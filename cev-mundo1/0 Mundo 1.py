@@ -10,10 +10,9 @@ def pulalinha(c='*', n=80):
     print(c * n)
 
 
-'''# Função print()
+# Função print()
 
 print('Olá, mundo!')
-
 
 # Diferença entre Adição e Concatenação (+)
 
@@ -85,6 +84,19 @@ print(str(5))
 print(str(s))
 print(str('olá'))
 print(type('5.0'))
+
+# code points e caracteres
+
+char1 = 'a'
+char2 = ' '   # espaço
+
+# ord()   # toma um único caractere e retorna o seu code point
+print(ord(char1))  # 97
+print(ord(char2))  # 32
+
+#chr()   # função toma um code point e devolve o seu caratere
+print(chr(97))     # a
+print('[' + chr(32) + ']')    # [ ] espaço
 
 pulalinha()
 
@@ -279,7 +291,7 @@ print('Carro Novo') if tempo <=3 else print('Carro Velho')  #condicional simplif
 
 # Exercícios: 28 ao 35
 pulalinha()
-'''
+
 # AULA 11: Cores no Terminal
 
 # Nessa aula, vamos aprender como utilizar os códigos de escape sequence ANSI
