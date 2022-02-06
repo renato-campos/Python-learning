@@ -299,6 +299,7 @@ pulalinha()
 # Veja como utilizar o código \033[m com todas as suas principais possibilidades.
 
 # veja também:
+# módulo colorize
 # https://realpython.com/lessons/ansi-escape-sequences/
 # https://realpython.com/python-print/
 # https://en.wikipedia.org/wiki/ANSI_escape_code
@@ -306,22 +307,22 @@ pulalinha()
 # O código ANSI de cores que funciona melhor para Python é o : \033[
 # início =>         \033[       \033[
 # estilo do texto:  código      0
-# separação:        :           :
+# separação:        ;           ;
 # texto:            código      33
-# separação:        :           :
+# separação:        ;           ;
 # côr do fundo:     código      44
 # encerramento:     m           m
 
-# resultado:        \033[0:33:44m
+# resultado:        \033[0;33;44m
 
 # Descrição dos Códigos que funcionam melhor em Python
 # Estilo:                   Cores:                      Background:                 Exemplos:
-#       0 nenhum            30 branco                   40 branco                   \033[0:30:41m
-#       1 negrito           31 vermelho                 41 vermelho                 \033[4:33:44m
-#       4 sublinhado        32 verde                    42 verde                    \033[1:35:43m
-#       7 negativado        33 amarelo                  43 amarelo                  \033[30:42m
+#       0 nenhum            30 branco                   40 branco                   \033[0;30;41m
+#       1 negrito           31 vermelho                 41 vermelho                 \033[4;33;44m
+#       4 sublinhado        32 verde                    42 verde                    \033[1;35;43m
+#       7 negativado        33 amarelo                  43 amarelo                  \033[30;42m
 #                           34 azul                     44 azul                     \033[m
-#                           35 roxo                     45 roxo                     \033[7:30m
+#                           35 roxo                     45 roxo                     \033[7;30m
 #                           36 azul claro               46 azul claro
 #                           37 cinza                    47 cinza
 

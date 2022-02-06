@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cev-mundo1.iml" filepath="$PROJECT_DIR$/.idea/cev-mundo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cev-mundo2/.idea/cev-mundo2.iml" filepath="$PROJECT_DIR$/../cev-mundo2/.idea/cev-mundo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cisco/.idea/cisco.iml" filepath="$PROJECT_DIR$/../cisco/.idea/cisco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fatec-algoritmos/.idea/fatec-algoritmos.iml" filepath="$PROJECT_DIR$/../fatec-algoritmos/.idea/fatec-algoritmos.iml" />
     </modules>
   </component>
 </project>

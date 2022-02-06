@@ -7,7 +7,7 @@ frase = str(input('Digite um texto qualquer: ')).strip().upper()
 
 a_count = frase.count('A')
 a_first = frase.find('A') + 1
-a_last = len(frase) - frase[::-1].find('A')
+a_last = len(frase) - frase[::-1].find('A')     # dois modos de encontrar
 a_last2 = frase.rfind('A') + 1
 
 print('''A letra "A" aparece {} vezes no texto.

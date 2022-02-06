@@ -4,8 +4,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="fatec-algoritmos" />
-    <orderEntry type="module" module-name="cisco" />
-    <orderEntry type="module" module-name="cev-mundo2" />
   </component>
 </module>

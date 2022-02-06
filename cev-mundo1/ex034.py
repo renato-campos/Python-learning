@@ -10,4 +10,4 @@ if salario_anterior <= 1250:
 else:
     salario_novo = salario_anterior * 1.10
 
-print('O salário anterior de R$ {:.2f} com aulmento passará a R$ {:.2f}'.format(salario_anterior, salario_novo))
+print('O salário anterior de R$ {:.2f} com aumento passará a R$ {:.2f}'.format(salario_anterior, salario_novo))
