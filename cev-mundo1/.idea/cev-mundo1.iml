@@ -7,5 +7,6 @@
     <orderEntry type="module" module-name="fatec-algoritmos" />
     <orderEntry type="module" module-name="cisco" />
     <orderEntry type="module" module-name="cev-mundo2" />
+    <orderEntry type="module" module-name="DataStruct" />
   </component>
 </module>
