@@ -1,0 +1,19 @@
+{
+    "address": {
+        "city": "Somewhere",
+        "postal_code": "12345",
+        "street": "123 Elm Street"
+    },
+    "age": 30,
+    "children": [
+        {
+            "age": 10,
+            "name": "Jane"
+        }
+    ],
+    "name": "John",
+    "phone_numbers": [
+        "123-456-7890",
+        "987-654-3210"
+    ]
+}
