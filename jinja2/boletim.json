@@ -1,0 +1,769 @@
+{
+    "data_inclusao": "2025-03-20T09:03:32.414190",
+    "boletim": "BC1629",
+    "versao": 4,
+    "ano": 2024,
+    "unidade_registro": "1\u00aa DIG - DEIC - DEINTER 6",
+    "unidade_area": "03 D.P. - CUBATAO",
+    "tipo_ocorrencia": "Boletim de Ocorr\u00eancia de Autoria Conhecida",
+    "flagrante": true,
+    "data_fato": "2024-01-23T09:18:00",
+    "data_fato2": "23/01/2024 \u00e0s 09:18",
+    "data_comunicacao": "2024-01-23T15:38:00",
+    "endereco_completo_fato": "RODOVIA SP 150, 47000, km 47 sul - COTA 200 - CUBATAO - SP",
+    "endereco": "RODOVIA SP 150, 47000, km 47 sul - COTA 200",
+    "municipio": "CUBATAO",
+    "cep": null,
+    "unidade_federal": "SP",
+    "naturezas": [
+        "Crime Consumado",
+        "C\u00f3digo Penal - Roubo (art. 157) - Carga",
+        "\u00a7 2\u00ba, II - h\u00e1 concurso de duas ou mais pessoas",
+        "\u00a7 2\u00ba, V - o agente mant\u00e9m a v\u00edtima em seu poder, restringindo sua liberdade",
+        "\u00a7 2\u00baA, I - Se a viol\u00eancia ou amea\u00e7a \u00e9 exercida com emprego de arma de fogo;",
+        "Crime Consumado",
+        "L 8.069/90 - ECA - Caput Corromper ou facilitar a corrup\u00e7\u00e3o de menor de 18 anos (244B)",
+        "Crime Consumado",
+        "Ato Infracional - C\u00f3digo Penal - Roubo (art. 157) - Carga",
+        "\u00a7 2\u00ba, II - h\u00e1 concurso de duas ou mais pessoas",
+        "\u00a7 2\u00ba, V - o agente mant\u00e9m a v\u00edtima em seu poder, restringindo sua liberdade",
+        "\u00a7 2\u00baA, I - Se a viol\u00eancia ou amea\u00e7a \u00e9 exercida com emprego de arma de fogo;",
+        "Crime Consumado",
+        "C\u00f3digo Penal - Associa\u00e7\u00e3o Criminosa (art. 288)",
+        "Crime Consumado",
+        "Ato Infracional - C\u00f3digo Penal - Associa\u00e7\u00e3o Criminosa (art. 288)",
+        "Crime Consumado",
+        "N\u00e3o Criminal - Localiza\u00e7\u00e3o/Apreens\u00e3o e Entrega de ve\u00edculo"
+    ],
+    "autoridade": "Sergio Augusto De M. Melo",
+    "historico": [
+        "teste\n"
+    ],
+    "resumo": [
+        "teste\n"
+    ],
+    "Pessoas F\u00edsicas": [
+        {
+            "tipo": "Condutor",
+            "nome": "Leonardo Hernandes Rossignoli",
+            "nome_social": null,
+            "rg": null,
+            "data_nascimento": "1982-05-18T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": null
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Dalton Emilio Gon\u00e7alves",
+            "nome_social": null,
+            "rg": "MG18573121 - MG",
+            "data_nascimento": "1996-12-23T00:00:00",
+            "cpf": "09912023684",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": null
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Lucas Lima Camioli",
+            "nome_social": null,
+            "rg": "41441045 - SP",
+            "data_nascimento": "1994-09-27T00:00:00",
+            "cpf": "42881219810",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Marcos Pirola",
+            "nome_social": null,
+            "rg": "21998177 - SP",
+            "data_nascimento": "1972-09-01T00:00:00",
+            "cpf": "14783981833",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Bruna Hubner De Oliveira Silva",
+            "nome_social": null,
+            "rg": "37679638 - SP",
+            "data_nascimento": "1997-11-17T00:00:00",
+            "cpf": "45022487896",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Willian Santos Do Nascimento",
+            "nome_social": null,
+            "rg": "46471439 - SP",
+            "data_nascimento": "1990-01-05T00:00:00",
+            "cpf": "37423138860",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Ednaldo Da Silva Matos",
+            "nome_social": null,
+            "rg": "25602990 - SP",
+            "data_nascimento": "1976-07-23T00:00:00",
+            "cpf": "15731124884",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "F\u00e1bio Silva De Mello",
+            "nome_social": null,
+            "rg": "40443006 - SP",
+            "data_nascimento": "1985-09-19T00:00:00",
+            "cpf": "32322823856",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Wellyngthon Franco Da Silva Santos",
+            "nome_social": null,
+            "rg": "49007489 - SP",
+            "data_nascimento": "1993-03-11T00:00:00",
+            "cpf": "40448599813",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Preta"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Douglas Ribeiro Viana De Carvalhoi",
+            "nome_social": null,
+            "rg": "17609896 - MG",
+            "data_nascimento": "1989-12-21T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Rafael Alves Da Silva",
+            "nome_social": null,
+            "rg": "52441102 - SP",
+            "data_nascimento": "2000-07-03T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": "Ajudante",
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Gustavo Gomes Vieira",
+            "nome_social": null,
+            "rg": "57617874 - SP",
+            "data_nascimento": "2005-02-13T00:00:00",
+            "cpf": "60549139800",
+            "fatal": false,
+            "profissao": "Ajudante",
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Michael Vinicius Gosn Da Silva",
+            "nome_social": null,
+            "rg": "47288398 - SP",
+            "data_nascimento": "1990-11-23T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": null,
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Adolescente infrator",
+            "nome": "Rubens N\u00edckolas Manuel Ferreira Diamantino",
+            "nome_social": null,
+            "rg": "59768052 - SP",
+            "data_nascimento": "2008-02-11T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": null,
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Lucas Franco Lemos Araujo",
+            "nome_social": null,
+            "rg": "52267074 - SP",
+            "data_nascimento": "1998-06-15T00:00:00",
+            "cpf": "51343471826",
+            "fatal": false,
+            "profissao": null,
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Andr\u00e9 Luiz Dos Santos",
+            "nome_social": null,
+            "rg": "55754526 - SP",
+            "data_nascimento": "1985-11-09T00:00:00",
+            "cpf": "04724316500",
+            "fatal": false,
+            "profissao": null,
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Jo\u00e3o Gabriel Coelho Vitena",
+            "nome_social": null,
+            "rg": "50997133 - SP",
+            "data_nascimento": "2002-03-06T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": null,
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Danilo Pereira De Farias",
+            "nome_social": null,
+            "rg": "44347914 - SP",
+            "data_nascimento": "1988-03-04T00:00:00",
+            "cpf": "35571313862",
+            "fatal": false,
+            "profissao": null,
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Adolescente infrator",
+            "nome": "Kauan Aparecido Rodrigues De Souza",
+            "nome_social": null,
+            "rg": "64691956 - SP",
+            "data_nascimento": "2009-01-14T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": null,
+            "cutis": "Preta"
+        },
+        {
+            "tipo": "V\u00edtima",
+            "nome": "Leandro Ferreira Da Costa",
+            "nome_social": null,
+            "rg": "8083349103 - RS",
+            "data_nascimento": "1983-08-05T00:00:00",
+            "cpf": "00386965099",
+            "fatal": false,
+            "profissao": "Motorista",
+            "cutis": null
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Kaique Martins Da Silva",
+            "nome_social": null,
+            "rg": "50383985 - SP",
+            "data_nascimento": "1996-10-08T00:00:00",
+            "cpf": "46379564802",
+            "fatal": false,
+            "profissao": "Ajudante",
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Wesley Lopes De Jesus",
+            "nome_social": null,
+            "rg": "42176495 - SP",
+            "data_nascimento": "1995-09-21T00:00:00",
+            "cpf": "49849229829",
+            "fatal": false,
+            "profissao": "Ajudante",
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Jonathas Santos De Santana",
+            "nome_social": null,
+            "rg": "55630899 - SP",
+            "data_nascimento": "1999-09-01T00:00:00",
+            "cpf": "51589428897",
+            "fatal": false,
+            "profissao": "Ajudante",
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Bruno Ferreira De Sousa",
+            "nome_social": null,
+            "rg": "58440185 - SP",
+            "data_nascimento": "2002-08-12T00:00:00",
+            "cpf": "53232383807",
+            "fatal": false,
+            "profissao": "Ajudante",
+            "cutis": "Preta"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Eduardo Franciscani De Araujo",
+            "nome_social": null,
+            "rg": "23490931 - SP",
+            "data_nascimento": "1979-12-08T00:00:00",
+            "cpf": "21301459810",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Maike Antonio De Souza Viana",
+            "nome_social": null,
+            "rg": "37458775 - SP",
+            "data_nascimento": "1996-08-17T00:00:00",
+            "cpf": "46956523825",
+            "fatal": false,
+            "profissao": "Ajudante",
+            "cutis": "Preta"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Felipe Sanches Da Costa",
+            "nome_social": null,
+            "rg": "41730043 - SP",
+            "data_nascimento": "1988-02-02T00:00:00",
+            "cpf": "36813875833",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Rodrigo De Sa Sanches Gimenez",
+            "nome_social": null,
+            "rg": "28912483 - SP",
+            "data_nascimento": "1978-08-07T00:00:00",
+            "cpf": "26528982805",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": null
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Gustavo Ferreira Dos Santos",
+            "nome_social": null,
+            "rg": "52020951 - SP",
+            "data_nascimento": "2000-03-29T00:00:00",
+            "cpf": "41480827894",
+            "fatal": false,
+            "profissao": "Ajudante",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Vinicius Silva Da Luz Gualter",
+            "nome_social": null,
+            "rg": "49480198 - SP",
+            "data_nascimento": "1991-04-19T00:00:00",
+            "cpf": "38737336843",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Paulo Giovanny Calado De Lucena",
+            "nome_social": null,
+            "rg": "23864896 - SP",
+            "data_nascimento": "1978-07-19T00:00:00",
+            "cpf": "26333160857",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Claudemir Alves Bezerra",
+            "nome_social": null,
+            "rg": "23020865 - SP",
+            "data_nascimento": "1974-06-28T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Rodrigo Coutinho Ribeiro Dos Santos",
+            "nome_social": null,
+            "rg": "43573462 - SP",
+            "data_nascimento": "1995-12-27T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": "Ajudante",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Robert Gustavo Assalin Cesar",
+            "nome_social": null,
+            "rg": "62256117 - SP",
+            "data_nascimento": "2005-10-23T00:00:00",
+            "cpf": "60428588824",
+            "fatal": false,
+            "profissao": null,
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Indiciado",
+            "nome": "Rog\u00e9rio Jesus Dos Santos",
+            "nome_social": null,
+            "rg": "63288935 - SP",
+            "data_nascimento": "1998-08-17T00:00:00",
+            "cpf": "07834048597",
+            "fatal": false,
+            "profissao": null,
+            "cutis": "Parda"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Mario Rodrigues Alves",
+            "nome_social": null,
+            "rg": "27992850 - SP",
+            "data_nascimento": "1979-12-10T00:00:00",
+            "cpf": "27554709844",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Testemunha",
+            "nome": "Ana Leticia Carvalho",
+            "nome_social": null,
+            "rg": "47921932 - SP",
+            "data_nascimento": "1992-01-08T00:00:00",
+            "cpf": "40397410808",
+            "fatal": false,
+            "profissao": "Policial militar",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Curador",
+            "nome": "Alberto Teixeira Filho",
+            "nome_social": null,
+            "rg": "13619199 - SP",
+            "data_nascimento": "1978-12-12T00:00:00",
+            "cpf": "28325112875",
+            "fatal": false,
+            "profissao": "Policial civil",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Advogado",
+            "nome": "Guilherme Moreira Miranda",
+            "nome_social": null,
+            "rg": "37322553 - SP",
+            "data_nascimento": "1994-09-29T00:00:00",
+            "cpf": "43087057894",
+            "fatal": false,
+            "profissao": "Advogado(a)",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "Curador",
+            "nome": "Luiz Antonio Francisco Neto",
+            "nome_social": null,
+            "rg": "28744246 - SP",
+            "data_nascimento": "1985-03-31T00:00:00",
+            "cpf": null,
+            "fatal": false,
+            "profissao": "Policial civil",
+            "cutis": "Branca"
+        },
+        {
+            "tipo": "V\u00edtima",
+            "nome": "O Estado",
+            "nome_social": null,
+            "rg": null,
+            "data_nascimento": null,
+            "cpf": null,
+            "fatal": false,
+            "profissao": null,
+            "cutis": null
+        }
+    ],
+    "Ve\u00edculos": [
+        {
+            "situacao": "Apreendido",
+            "tipo": "Automovel",
+            "placa": "QNF6826",
+            "marca_modelo": "CHEVROLET/ONIX 1.0MT LT",
+            "ano_fabricacao": 2017,
+            "ano_modelo": 2018,
+            "cor": "Preta",
+            "chassi": "9BGKS48U0JG239169",
+            "pessoa_relacionada": "MARIA SOLANGE CAVALCANTE"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Camioneta",
+            "placa": "GJA6A45",
+            "marca_modelo": "I/CHEV TRACKER LT",
+            "ano_fabricacao": 2017,
+            "ano_modelo": 2018,
+            "cor": "Preta",
+            "chassi": "3GNDJ8CZ5JL257528",
+            "pessoa_relacionada": "RODOLFO FORMES ALBUQUERQUE"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Caminhonete",
+            "placa": "CUW0E10",
+            "marca_modelo": "I/PEUGEOT EXPERT CARGO",
+            "ano_fabricacao": 2022,
+            "ano_modelo": 2023,
+            "cor": "Branco",
+            "chassi": "9V8VBYHVEPA005029",
+            "pessoa_relacionada": "EMERDIAS TRANSPORTES E LOGISTICA LTDA"
+        },
+        {
+            "situacao": "Localizado / Entregue",
+            "tipo": "Caminh\u00e3o",
+            "placa": "FZZ4J44",
+            "marca_modelo": "M.BENZ/ATEGO 2429",
+            "ano_fabricacao": 2013,
+            "ano_modelo": 2013,
+            "cor": "Branco",
+            "chassi": "9BM958094DB933086",
+            "pessoa_relacionada": "MAJS SERVICOS LTDA"
+        },
+        {
+            "situacao": "Localizado / Entregue",
+            "tipo": "Caminhonete",
+            "placa": "EAD9G83",
+            "marca_modelo": "I/PEUGEOT EXPERT CARGO",
+            "ano_fabricacao": 2022,
+            "ano_modelo": 2022,
+            "cor": "Branco",
+            "chassi": "9V8VBYHVENA808018",
+            "pessoa_relacionada": "SANTA RITA DISTRIBUICAO E COMERCIO LTDA"
+        },
+        {
+            "situacao": "Localizado / Entregue",
+            "tipo": "Camioneta",
+            "placa": "FVF8E66",
+            "marca_modelo": "I/CHEV TRACKER PREMIER",
+            "ano_fabricacao": 2018,
+            "ano_modelo": 2018,
+            "cor": "Preta",
+            "chassi": "3GNCJ8CZ1JL346511",
+            "pessoa_relacionada": "VITORIA KIEVEK"
+        }
+    ],
+    "Objetos": [
+        {
+            "situacao": "Apreendido",
+            "tipo": "Real",
+            "pessoa_relacionada": null,
+            "qtd_obj": "104,80",
+            "unidade": "Valor",
+            "observacao": "LOCALIZADO NO INTERIOR DO VE\u00cdCULO VAN"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Real",
+            "pessoa_relacionada": null,
+            "qtd_obj": "380,00",
+            "unidade": "Valor",
+            "observacao": "LOCALIZADO EM PODER DE RAFAEL A.SILVA"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Telefone Celular",
+            "pessoa_relacionada": "RAFAEL ALVES DA SILVA",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "Sol. Bloqueio/Desbloqueio Imei:Registro Origem:Outros Observa\u00e7\u00f5es: LACRE 5461491 Bloqueio/Desbloqueio: Operadora DDD/Celular Imei CPF/CNPJ/Passaporte"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Telefone Celular",
+            "pessoa_relacionada": "RAFAEL ALVES DA SILVA",
+            "qtd_obj": "2,00",
+            "unidade": "Unidade",
+            "observacao": "Sol. Bloqueio/Desbloqueio Imei:Registro Origem:Outros Observa\u00e7\u00f5es: LACRE 5461491 Bloqueio/Desbloqueio: Operadora DDD/Celular Imei CPF/CNPJ/Passaporte"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Telefone Celular",
+            "pessoa_relacionada": "RAFAEL ALVES DA SILVA",
+            "qtd_obj": "2,00",
+            "unidade": "Unidade",
+            "observacao": "Sol. Bloqueio/Desbloqueio Imei:Registro Origem:Outros Observa\u00e7\u00f5es: LACRE 5461491 Bloqueio/Desbloqueio: Operadora DDD/Celular Imei CPF/CNPJ/Passaporte"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Radio Transmissor (ht)",
+            "pessoa_relacionada": "RAFAEL ALVES DA SILVA",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "Observa\u00e7\u00f5es: LACRE 5461490"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Outros-Outros",
+            "pessoa_relacionada": "RAFAEL ALVES DA SILVA",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "Observa\u00e7\u00f5es: VEICULOD E COR BRANCA OSTENTANDO AS PLACAS MKE 0G04"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Outros-Outros",
+            "pessoa_relacionada": "RAFAEL ALVES DA SILVA",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "Observa\u00e7\u00f5es: 01 APARELHO JAMMER CORTA SINAL -  LACRE 001398"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Telefone Celular",
+            "pessoa_relacionada": "BRUNO FERREIRA DE SOUSA",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "Sol. Bloqueio/Desbloqueio Imei:Registro Origem:Outros Observa\u00e7\u00f5es: LACRE 5461491 Bloqueio/Desbloqueio: Operadora DDD/Celular Imei CPF/CNPJ/Passaporte"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Cigarro",
+            "pessoa_relacionada": "LEANDRO FERREIRA DA COSTA",
+            "qtd_obj": "1.200,00",
+            "unidade": "Caixa",
+            "observacao": "Observa\u00e7\u00f5es: APROXIMADAMENTE 1200 CAIXAS RECUPERADAS E ENTREGUE \u00c0 V\u00cdTIMA LEANDRO FERREIRA DA COSTA"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Telefone Celular",
+            "pessoa_relacionada": "JONATHAS SANTOS DE SANTANA",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "Sol. Bloqueio/Desbloqueio Imei:Registro Origem:Outros Observa\u00e7\u00f5es: LACRE 5461013 Bloqueio/Desbloqueio: Operadora DDD/Celular Imei CPF/CNPJ/Passaporte"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Carteira",
+            "pessoa_relacionada": "JONATHAS SANTOS DE SANTANA",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "LACRE 5461013"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Rel\u00f3gio de Pulso",
+            "pessoa_relacionada": "JONATHAS SANTOS DE SANTANA",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "LACRE 5461013"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Telefone Celular",
+            "pessoa_relacionada": "BRUNO FERREIRA DE SOUSA",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "Sol. Bloqueio/Desbloqueio Imei:Registro Origem:Outros Observa\u00e7\u00f5es: LACRE 5461013 Bloqueio/Desbloqueio: Operadora DDD/Celular Imei CPF/CNPJ/Passaporte"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Telefone Celular",
+            "pessoa_relacionada": "GUSTAVO FERREIRA DOS SANTOS",
+            "qtd_obj": "2,00",
+            "unidade": "Unidade",
+            "observacao": "Sol. Bloqueio/Desbloqueio Imei:Registro Origem:Outros Observa\u00e7\u00f5es: lacre 5461471 Bloqueio/Desbloqueio: Operadora DDD/Celular Imei CPF/CNPJ/Passaporte"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Telefone Celular",
+            "pessoa_relacionada": "GUSTAVO FERREIRA DOS SANTOS",
+            "qtd_obj": "1,00",
+            "unidade": "Unidade",
+            "observacao": "Sol. Bloqueio/Desbloqueio Imei:Registro Origem:Outros Observa\u00e7\u00f5es: lacre 5461544 Bloqueio/Desbloqueio: Operadora DDD/Celular Imei CPF/CNPJ/Passaporte"
+        },
+        {
+            "situacao": "Apreendido / Entregue",
+            "tipo": "Outros-Cigarro e Afins",
+            "pessoa_relacionada": "LEANDRO FERREIRA DA COSTA",
+            "qtd_obj": "547.218,00",
+            "unidade": "Unidade",
+            "observacao": "Observa\u00e7\u00f5es: sendo : 534.530 carteiras de cigarro; 280 pacotes de fumo; 12.408 \u00edtens de parceria. Total de R$ 5.411.957,20"
+        }
+    ],
+    "Armas e Acess\u00f3rios": [
+        {
+            "situacao": "Apreendido",
+            "tipo": "Pistola",
+            "numero": "BMZT255",
+            "marca": "GLOCK",
+            "calibre": ".40",
+            "estado": null,
+            "pessoa_relacionada": "LUCAS LIMA CAMIOLI"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Pistola",
+            "numero": "BMZT278",
+            "marca": "GLOCK",
+            "calibre": "40",
+            "estado": "COM CARREGADOR",
+            "pessoa_relacionada": "MARCOS PIROLA"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Pistola",
+            "numero": "BMZT130",
+            "marca": "GLOCK",
+            "calibre": ".40",
+            "estado": null,
+            "pessoa_relacionada": "LEONARDO HERNANDES ROSSIGNOLI"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Pistola",
+            "numero": "BMZT173",
+            "marca": "GLOCK",
+            "calibre": "40",
+            "estado": "COM CARREGADOR",
+            "pessoa_relacionada": "EDNALDO DA SILVA MATOS"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Pistola",
+            "numero": "BZMT388",
+            "marca": "GLOCK",
+            "calibre": "40",
+            "estado": "COM CARREGADOR",
+            "pessoa_relacionada": "DALTON EMILIO GON\u00c7ALVES"
+        },
+        {
+            "situacao": "Apreendido",
+            "tipo": "Pistola",
+            "numero": "DSUN411",
+            "marca": "GLOCK",
+            "calibre": ".40",
+            "estado": null,
+            "pessoa_relacionada": "BRUNA HUBNER DE OLIVEIRA SILVA"
+        }
+    ],
+    "Cargas": [
+        {
+            "situacao": "Subtra\u00eddo",
+            "tipo": "Cigarros",
+            "qtd": "18780.0 Unidade",
+            "detalhe": "187802 \u00edtens de",
+            "valor": "R$ 1.874.319,62"
+        }
+    ]
+}

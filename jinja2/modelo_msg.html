@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="iso-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comunicação de Ocorrência</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="title">
+            <h3>
+                <strong>CECOP/DEINTER 6{{ '&nbsp;' * 10}}</strong>
+                <strong>MSG XXXX/{{data_hora_atual.strftime('%Y')}}{{'&nbsp;' * 10}}</strong>
+                <strong>{{ data_hora_atual.strftime('%d/%m/%Y às %H:%M') }}</strong>
+            </h3>
+        </div>
+    </header>
+
+    <main>
+        <section>
+            <h3>Comunicação de Ocorrência</h3>
+            <p><strong>BO:</strong> {{ dados.boletim }}-{{ dados.versao }}/{{ dados.ano }}{{ '&nbsp;' * 15}}
+                {% if dados.flagrante %}
+                <span class="spacer"><strong>Flagrante:</strong></span>{{ 'Sim' if dados.flagrante }}{{ '&nbsp;' * 15}}
+                {% endif %}
+                <span class="spacer">Unidade de Registro:</span> {{ dados.unidade_registro }}{{ '&nbsp;' * 15}}
+            </p>
+            <p><strong>Local do Fato:</strong>{{ dados.endereco_completo_fato }}</p>
+            <p><strong>Hora do Fato:</strong> {{ dados.data_fato2 }}</p>
+            <p><strong>Hora da Comunicação:</strong> {{ dados.data_comunicacao.strftime("%d/%m/%Y às %H:%M") if
+                dados.data_comunicacao else "Não informado" }}</p>
+        </section>
+
+        <section>
+            <h3>Naturezas da Ocorrência</h3>
+            <ul class="item-list">
+                {% for natureza in dados.naturezas %}
+                <li>{{ natureza }}</li>
+                {% endfor %}
+            </ul>
+        </section>
+
+        <section>
+            {% for categoria in ["Pessoas Físicas", "Pessoas Jurídicas"] %}
+            {% if dados.get(categoria) %}
+            <div class="section">
+                <h3><br>{{ categoria }}</h3>
+                <ul class="item-list">
+                    <p>
+                        {% for item in dados[categoria] %}
+                        {% set index = loop.index %}
+                        {% for key, value in item.items() %}
+                        {% if key == "tipo" and value %}
+                        <span><strong> {{ index }}:</strong> {{value}} </span>
+                        {% elif key == "fatal" and value %}
+                        <strong>{{ key | capitalize }}:</strong> {{'Sim' if value}}
+                        {% elif value %}
+                        <span><strong>{{ key | capitalize }}:</strong> {{ value }} </span>
+                        {% endif %}
+                        {% endfor %}
+                    </p>
+                    {% endfor %}
+
+                </ul>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </section>
+
+        <section>
+            {% for categoria in ["Veículos", "Objetos", "Armas e Acessórios", "Entorpecentes", "Cargas"] %}
+            {% if dados.get(categoria) %}
+            <div class="section">
+                <h3><br>{{ categoria }}</h3>
+                <ul class="item-list">
+                    {% for item in dados[categoria] %}
+                    <p>
+                        {% set index = loop.index %}
+                        {% for key, value in item.items() %}
+                        {% if value %}
+                        {% if key == 'situacao' %}
+                        <strong>{{index}} {{ key | capitalize }}:</strong> {{value}}
+                        {% elif categoria == 'Entorpecentes' and key == 'tipo' %}
+                        <strong>{{index}} {{ key | capitalize }}:</strong> {{value}}
+                        {% else %}
+                        <strong> {{ key | capitalize }}:</strong> {{value}}
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </p>
+                    {% endfor %}
+
+                </ul>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </section>
+
+
+        <section>
+            <h3>{% if opcao == 1 %}Histórico{% else %}Histórico Resumido{% endif %}</h3>
+            <div class="item-list">
+                {% if opcao == 1 %}
+                {% for historico in dados.historico %}
+                <p>{{ historico }}</p>
+                {% endfor %}
+                {% else %}
+                {% for resumo in dados.resumo %}
+                <p>{{ resumo }}</p>
+                {% endfor %}
+                {% endif %}
+            </div>
+
+        </section>
+
+        <section>
+            <br><br>
+            <h3>{{ dados.autoridade }}<br>
+                Delegado de Polícia</h3>
+        </section>
+    </main>
+
+</body>
+
+</html>

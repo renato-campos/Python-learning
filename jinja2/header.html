@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="iso-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relatório</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+    <table border="0" cellpadding="7" cellspacing="0" width="617" style="border-collapse: collapse" bordercolor="#111111">
+    <tr>
+        <td width="439"><p align="center">
+          <b>
+        Departamento de Polícia Judiciária do Interior DEINTER 6<br><br>
+        CECOP - Centro de Comunicações e Operações Policiais<br><br>
+
+        <strong>Relatório de Ocorrências<br>
+                Período: de {{ inicio.strftime('%d/%m/%Y às %H:%M') }} até {{
+                    fim.strftime('%d/%m/%Y às %H:%M') }}<br>
+                Equipe: {{ equipe.upper() }}</strong>
+        </b>
+        </td>
+    </tr>
+</table>
+
+    </header>
+    
